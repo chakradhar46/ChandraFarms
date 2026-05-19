@@ -1,0 +1,3 @@
+order_id,customer_name,phone,product,quantity_kg,price_per_kg,total_amount,address,order_date,status,notes
+CF001,Sample Customer,9876543210,Pomegranate,5,120,600,"123 Main St, Hyderabad, Telangana - 500001",2025-01-01,Delivered,First order
+CF002,Sample Customer 2,9876543211,Groundnuts,10,150,1500,"456 Park Road, Bengaluru, Karnataka - 560001",2025-01-02,Delivered,Bulk order
